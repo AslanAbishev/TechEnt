@@ -1,0 +1,44 @@
+{
+    "header": {
+        "login": "Log in",
+        "signup": "Sign up",
+        "personal_account": "Personal account",
+        "voting": "Voting",
+        "payment": "Payment",
+        "open_government": "Open Government",
+        "proactive_services": "Proactive services",
+        "register_state_services": "Register of state services",
+        "about_portal": "About Portal",
+        "help": "Help",
+        "public_services": "Public services and online information"
+    },
+    "services": {
+        "for_citizenry": "For citizenry / For businesses",
+        "family": "Family",
+        "healthcare": "Healthcare",
+        "education": "Education"
+    },
+    "auth": {
+        "username_placeholder": "Enter username",
+        "password_placeholder": "Enter password",
+        "register_button": "Register",
+        "login_button": "Login",
+        "register_title": "Register",
+        "login_title": "Login"
+    },
+    "voting": {
+        "vote_title": "Vote for Your Candidate",
+        "candidate1": "Vote for Candidate 1",
+        "candidate2": "Vote for Candidate 2",
+        "results": "Results"
+    },
+    "personal_account": {
+        "title": "Your Personal Account",
+        "username": "Username",
+        "public_key": "Public Key",
+        "your_vote": "Your Vote"
+    },
+    "footer": {
+        "copyright": "© 2024 eGov.kz"
+    }
+}

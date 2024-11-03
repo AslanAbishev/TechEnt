@@ -1,0 +1,44 @@
+{
+    "header": {
+        "login": "Кіру",
+        "signup": "Тіркелу",
+        "personal_account": "Жеке кабинет",
+        "voting": "Дауыс беру",
+        "payment": "Төлем",
+        "open_government": "Ашық үкімет",
+        "proactive_services": "Проактивті қызметтер",
+        "register_state_services": "Мемлекеттік қызметтер тізілімі",
+        "about_portal": "Портал туралы",
+        "help": "Көмек",
+        "public_services": "Мемлекеттік қызметтер және онлайн ақпарат"
+    },
+    "services": {
+        "for_citizenry": "Азаматтар үшін / Бизнес үшін",
+        "family": "Отбасы",
+        "healthcare": "Денсаулық сақтау",
+        "education": "Білім"
+    },
+    "auth": {
+        "username_placeholder": "Пайдаланушы атын енгізіңіз",
+        "password_placeholder": "Құпия сөзді енгізіңіз",
+        "register_button": "Тіркелу",
+        "login_button": "Кіру",
+        "register_title": "Тіркелу",
+        "login_title": "Кіру"
+    },
+    "voting": {
+        "vote_title": "Өзіңіздің кандидатыңызға дауыс беріңіз",
+        "candidate1": "Кандидат 1-ге дауыс беру",
+        "candidate2": "Кандидат 2-ге дауыс беру",
+        "results": "Нәтижелер"
+    },
+    "personal_account": {
+        "title": "Сіздің Жеке Кабинетіңіз",
+        "username": "Пайдаланушы аты",
+        "public_key": "Жеке кілт",
+        "your_vote": "Сіздің дауысыңыз"
+    },
+    "footer": {
+        "copyright": "© 2024 eGov.kz"
+    }
+}

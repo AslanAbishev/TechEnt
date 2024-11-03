@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voting - E-vote System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="topbar">
+            <span id="languageSwitcher">
+                <a href="#" id="kk">ҚАЗ</a> |
+                <a href="#" id="ru">РУС</a> |
+                <a href="#" id="en">ENG</a>
+            </span>
+            <span><a href="login.html">Log in</a> or <a href="register.html">sign up</a></span>
+        </div>
+        <div class="logo">
+            <a href="index.html"><img src="egov_logo.png" alt="eGov Logo"></a>
+            <h2>Public services <br> and online information</h2>
+        </div>
+    </header>
+
+    <section class="voting">
+        <h3>Vote for Your Candidate</h3>
+        <button id="candidate1">Vote for Candidate 1</button>
+        <button id="candidate2">Vote for Candidate 2</button>
+        <div id="confirmation" style="display: none;">
+            <p>Are you sure you want to cast this vote?</p>
+            <button id="confirmVote">Confirm</button>
+            <button id="cancelVote">Cancel</button>
+        </div>
+    </section>
+
+    <section class="results">
+        <h3>Results</h3>
+        <p>Candidate 1: <span id="candidate1Votes">0</span> votes</p>
+        <p>Candidate 2: <span id="candidate2Votes">0</span> votes</p>
+    </section>
+
+    <footer>
+        <p>© 2024 eGov.kz</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

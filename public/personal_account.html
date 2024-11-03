@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Account - E-vote System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="topbar">
+            <span id="languageSwitcher">
+                <a href="#" id="kk">ҚАЗ</a> |
+                <a href="#" id="ru">РУС</a> |
+                <a href="#" id="en">ENG</a>
+            </span>
+            <span id="login-signup"><a href="login.html" id="login-link">Log in</a> or <a href="register.html" id="signup-link">sign up</a></span>
+        </div>
+        <div class="logo">
+            <a href="index.html"><img src="egov_logo.png" alt="eGov Logo"></a>
+            <h2 id="logo-text">Public services <br> and online information</h2>
+        </div>
+    </header>
+
+    <section id="personal-account" class="auth">
+        <h3 id="title">Your Personal Account</h3>
+        <p>Username: <span id="username"></span></p>
+        <p>Public Key: <span id="publicKey"></span></p>
+        <p>Your Vote: <span id="yourVote"></span></p>
+    </section>
+
+    <footer>
+        <p>© 2024 eGov.kz</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

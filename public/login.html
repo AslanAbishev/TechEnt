@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - E-vote System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="topbar">
+            <span id="languageSwitcher">
+                <a href="#" id="kk">ҚАЗ</a> |
+                <a href="#" id="ru">РУС</a> |
+                <a href="#" id="en">ENG</a>
+            </span>
+            <span><a href="login.html">Log in</a> or <a href="register.html">sign up</a></span>
+        </div>
+        <div class="logo">
+            <a href="index.html"><img src="egov_logo.png" alt="eGov Logo"></a>
+            <h2>Public services <br> and online information</h2>
+        </div>
+    </header>
+
+    <section class="auth">
+        <h3>Login</h3>
+        <form id="loginForm">
+            <input type="text" id="loginUsername" placeholder="Enter username" required />
+            <input type="password" id="loginPassword" placeholder="Enter password" required />
+            <button type="submit">Login</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2024 eGov.kz</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

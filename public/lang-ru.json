@@ -1,0 +1,44 @@
+{
+    "header": {
+        "login": "Войти",
+        "signup": "Зарегистрироваться",
+        "personal_account": "Личный кабинет",
+        "voting": "Голосование",
+        "payment": "Оплата",
+        "open_government": "Открытое правительство",
+        "proactive_services": "Проактивные услуги",
+        "register_state_services": "Реестр государственных услуг",
+        "about_portal": "О портале",
+        "help": "Помощь",
+        "public_services": "Государственные услуги и онлайн-информация"
+    },
+    "services": {
+        "for_citizenry": "Для граждан / Для бизнеса",
+        "family": "Семья",
+        "healthcare": "Здравоохранение",
+        "education": "Образование"
+    },
+    "auth": {
+        "username_placeholder": "Введите имя пользователя",
+        "password_placeholder": "Введите пароль",
+        "register_button": "Зарегистрироваться",
+        "login_button": "Войти",
+        "register_title": "Регистрация",
+        "login_title": "Войти"
+    },
+    "voting": {
+        "vote_title": "Голосуйте за вашего кандидата",
+        "candidate1": "Голосовать за кандидата 1",
+        "candidate2": "Голосовать за кандидата 2",
+        "results": "Результаты"
+    },
+    "personal_account": {
+        "title": "Ваш Личный Кабинет",
+        "username": "Имя пользователя",
+        "public_key": "Публичный ключ",
+        "your_vote": "Ваш голос"
+    },
+    "footer": {
+        "copyright": "© 2024 eGov.kz"
+    }
+}
